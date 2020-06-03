@@ -1,9 +1,9 @@
 on:
   release:
     types:
-      - prereleased
+      - released
 
-name: Deploy QA
+name: Deploy Prod
 
 jobs:
   deploy:
