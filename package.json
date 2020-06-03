@@ -1,0 +1,14 @@
+{
+  "name": "action-deployment-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-finaeo:dave-finaeo/action-deployment-testing.git",
+  "author": "David Mills <dave@1morepx.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
