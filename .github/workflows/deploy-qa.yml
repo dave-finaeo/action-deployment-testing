@@ -2,6 +2,7 @@ on:
   release:
     types:
       - created
+      - unpublished
 
 name: Deploy QA
 
